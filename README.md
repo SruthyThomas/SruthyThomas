@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SruthyThomas
-- 👀 I’m interested in  coding,cooking...
+- 👀 I’m interested in  coding,learning ,cooking...
 - 🌱 I’m currently learning datascience and machine learning
 - 💞️ I’m looking to collaborate on datascience projects
 - 📫 How to reach me sruthyt92@gmail.com
